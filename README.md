@@ -31,8 +31,8 @@ An embedded robotics platform built with an Arduino UNO microcontroller. The sys
 1. Open `voice-controlled-mini-automobile.ino` in the Arduino IDE.
 2. Select **Arduino Uno** under **Tools -> Board**.
 3. Connect your board via USB and select the correct **Port**.
-4. Compile and upload the sketch to the board.<img width="516" height="713" alt="Screenshot 2026-08-25 170835" src="https://github.com/user-attachments/assets/e7d36837-f20e-4f39-8af9-b3cae08993d5" />
-<img width="498" height="699" alt="Screenshot 2026-08-25 170826" src="https://github.com/user-attachments/assets/9786f563-47b2-463f-adb4-e8ce2a5d8a4c" />
-<img width="502" height="702" alt="Screenshot 2026-08-25 170815" src="https://github.com/user-attachments/assets/bcaba0b3-6aab-4aaa-8fa9-52e1a6be34e9" />
-<img width="505" height="711" alt="Screenshot 2026-08-25 170733" src="https://github.com/user-attachments/assets/b79d8401-3000-4d5c-be86-4682f075877a" />
-<img width="506" height="715" alt="Screenshot 2026-08-25 170719" src="https://github.com/user-attachments/assets/0cf82a12-3ebb-493a-b3c8-25dfd2b99060" />
+4. Compile and upload the sketch to the board.<img width="505" height="711" alt="Screenshot 2026-08-25 170733" src="https://github.com/user-attachments/assets/df57135b-9850-4760-9099-bd87aef2bc5c" />
+<img width="506" height="715" alt="Screenshot 2026-08-25 170719" src="https://github.com/user-attachments/assets/27270ae5-5fd3-4d2f-9743-3b398b4b5055" />
+<img width="516" height="713" alt="Screenshot 2026-08-25 170835" src="https://github.com/user-attachments/assets/d5b2b994-7a33-44bc-b059-62b409517fed" />
+<img width="498" height="699" alt="Screenshot 2026-08-25 170826" src="https://github.com/user-attachments/assets/8a67bb43-df6a-497f-92ea-2157818e75e1" />
+<img width="502" height="702" alt="Screenshot 2026-08-25 170815" src="https://github.com/user-attachments/assets/5e88fa77-8a7c-42c6-86e7-070c4b43231b" />
